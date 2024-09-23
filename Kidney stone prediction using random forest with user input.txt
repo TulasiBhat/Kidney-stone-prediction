@@ -1,0 +1,12 @@
+Kidney Stone Prediction Using Random Forest
+
+This repository implements a machine learning model for predicting kidney stone risk utilizing the Random Forest algorithm.
+
+Key Features:
+- Data Collection: Collects and analyzes factors influencing kidney stone development, such as age, sex, diet, hydration, BMI, and medical history.
+- Data Preprocessing: Employs techniques like SMOTE to address class imbalance, enhancing the model's reliability.
+- Model Training: Utilizes a Random Forest Classifier to effectively model and predict outcomes based on the training data.
+- Model Evaluation: Assesses performance through accuracy metrics, confusion matrices, and classification reports, supplemented with visualizations like heatmaps and scatter plots.
+- User Input for Prediction**: Allows real-time data input for individual risk assessment, providing immediate predictions and visual comparisons.
+
+This project aims to support healthcare professionals in identifying at-risk individuals, facilitating timely interventions and improved patient care.
